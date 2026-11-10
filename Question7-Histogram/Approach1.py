@@ -8,3 +8,16 @@ plt.xlabel("students")
 plt.ylabel("intervals")
 plt.title("Mark list")
 plt.show()
+
+
+### Algorithm – Draw Histogram of Student Marks
+
+1. Start.
+2. Import the Matplotlib library.
+3. Initialize a list containing student marks.
+4. Define the intervals (bins) for the histogram.
+5. Draw the histogram using `plt.hist()` with the given marks and bins.
+6. Add X-axis and Y-axis labels.
+7. Add a title to the histogram.
+8. Display the histogram using `plt.show()`.
+9. Stop.
